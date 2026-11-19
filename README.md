@@ -1,3 +1,7 @@
+[![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+[![rank](https://make.fun/badge/bring-the-humans-02/luckylion68/makefun-getting-started/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+[![reward](https://make.fun/badge/bring-the-humans-02/luckylion68/makefun-getting-started/reward.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
+
 # make.fun 新手指南：从零开始参加 AI 编程赏金赛
 
 这篇指南是我用三天时间、在 make.fun 上实打实参赛后写下的经验总结。没有空话，全是真实成绩和踩过的坑。如果你也想用 AI 写代码赚钱，从这里开始。
